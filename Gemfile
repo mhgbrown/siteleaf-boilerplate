@@ -1,0 +1,15 @@
+source 'https://rubygems.org'
+
+ruby '2.2.4'
+
+gem 'compass'
+gem 'compass-validator'
+gem 'guard'
+gem 'guard-sass'
+gem 'guard-compass'
+gem 'guard-copy3'
+gem 'guard-jammit'
+gem 'guard-uglify'
+gem 'guard-livereload'
+gem 'terminal-notifier-guard'
+gem 'siteleaf'
