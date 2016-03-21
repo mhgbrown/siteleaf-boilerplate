@@ -1,5 +1,4 @@
 .DS_Store
-/config.ru
 *.zip
 .sass-cache
 Gemfile.lock
