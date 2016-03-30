@@ -1,6 +1,6 @@
 # Siteleaf Boilerplate
 
-This is Ruby-based starter project for sites backed by [Siteleaf **v1**](http://www.siteleaf.com/).
+This is Ruby-based starter project for sites backed by [Siteleaf **v2**](http://www.siteleaf.com/).
 
 ## Features
 
