@@ -3,8 +3,8 @@ require 'compass/import-once/activate'
 
 # Set this to the root of your project when deployed:
 http_path = "/"
-css_dir = "stylesheets/css/min"
-sass_dir = "stylesheets/scss"
+css_dir = "styles/css/min"
+sass_dir = "styles/scss"
 
 # You can select your preferred output style here (can be overridden via the command line):
 output_style = :compressed
